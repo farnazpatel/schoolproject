@@ -1,0 +1,16 @@
+{
+"Flights":[
+  {"Airline":"British Airways", "Destination":"Canada", "DepartureTime":"12:25", "Gate":"1A"},
+  {"Airline":"Easy Jet", "Destination":"Portugal", "DepartureTime":"12:40", "Gate":"3D"},
+  {"Airline":"Ryanair", "Destination":"Italy", "DepartureTime":"13:20", "Gate":"4C"},
+  {"Airline":"Ryanair", "Destination":"Spain", "DepartureTime":"13:30", "Gate":"2A"},
+  {"Airline":"Easy Jet", "Destination":"Turkey", "DepartureTime":"13:55", "Gate":"1D"},
+  {"Airline":"Easy Jet", "Destination":"Germany", "DepartureTime":"14:15", "Gate":"4B"},
+  {"Airline":"British Airways", "Destination":"Australia", "DepartureTime":"14:25", "Gate":"2B"},
+  {"Airline":"British Airways", "Destination":"China", "DepartureTime":"14:40", "Gate":"3B"},
+  {"Airline":"British Airways", "Destination":"Japan", "DepartureTime":"15:10", "Gate":"2C"},
+  {"Airline":"Ryanair", "Destination":"Denmark", "DepartureTime":"15:30", "Gate":"1B"},
+  {"Airline":"Easy Jet", "Destination":"Brazil", "DepartureTime":"15:40", "Gate":"3D"},
+  {"Airline":"Ryanair", "Destination":"Iceland", "DepartureTime":"16:20", "Gate":"2A"}
+]
+}
