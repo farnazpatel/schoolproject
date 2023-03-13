@@ -14,7 +14,3 @@
   {"Airline":"Ryanair", "Destination":"Iceland", "DepartureTime":"16:20", "Gate":"2A"}
 ]
 }
-[[redirects]]
-  from = "/"
-  to = "/flights.json"
-  status = 302
