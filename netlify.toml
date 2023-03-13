@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/"
+  to = "/flights.json"
+  status = 302
