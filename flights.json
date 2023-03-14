@@ -1,5 +1,4 @@
 {
-"Flights":[
   {"Airline":"British Airways", "Destination":"Canada", "DepartureTime":"12:25", "Gate":"1A"},
   {"Airline":"Easy Jet", "Destination":"Portugal", "DepartureTime":"12:40", "Gate":"3D"},
   {"Airline":"Ryanair", "Destination":"Italy", "DepartureTime":"13:20", "Gate":"4C"},
@@ -12,5 +11,4 @@
   {"Airline":"Ryanair", "Destination":"Denmark", "DepartureTime":"15:30", "Gate":"1B"},
   {"Airline":"Easy Jet", "Destination":"Brazil", "DepartureTime":"15:40", "Gate":"3D"},
   {"Airline":"Ryanair", "Destination":"Iceland", "DepartureTime":"16:20", "Gate":"2A"}
-]
 }
